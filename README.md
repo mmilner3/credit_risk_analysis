@@ -12,4 +12,4 @@ The ovbojective of this project was to leverage Machine Learning to determin at 
 ## Summary
 I belive that in order to most accurately predict credit worthiness we should use the ClusterCentroids model as this will not require boosting and can be widley used for various samples. 
 
-![IMAGE]()
+![IMAGE](https://github.com/mmilner3/credit_risk_analysis/blob/main/Capture.PNG)
